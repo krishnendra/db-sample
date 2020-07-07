@@ -1,0 +1,9 @@
+org/example/numeric/words/converter/impl/NumericConverterImpl.class
+org/example/numeric/words/model/OddMultiDigit.class
+org/example/numeric/words/model/DoubleDigit.class
+org/example/numeric/words/model/Digit.class
+org/example/numeric/words/model/BaseDigit.class
+org/example/numeric/words/converter/NumericConverter.class
+org/example/numeric/words/model/EvenMultiDigit.class
+org/example/numeric/words/model/SingleDigit.class
+org/example/numeric/words/model/TripleDigit.class
